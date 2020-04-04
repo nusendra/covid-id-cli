@@ -1,8 +1,8 @@
 {
-  "name": "covid-cli",
+  "name": "covid-id-cli",
   "version": "1.0.0",
   "main": "index.js",
-  "bin": "./bin/covid-cli.js",
+  "bin": "./bin/covid-id-cli.js",
   "author": "Nusendra",
   "license": "MIT",
   "dependencies": {
