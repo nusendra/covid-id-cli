@@ -1,0 +1,13 @@
+{
+  "name": "covid-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/covid-cli.js",
+  "author": "Nusendra",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0"
+  }
+}
